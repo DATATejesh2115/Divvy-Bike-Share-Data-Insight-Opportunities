@@ -7,7 +7,8 @@ required_packages <- c(
   "readxl",
   "janitor",
   "stringr",
-  "dplyr"
+  "dplyr",
+  "geosphere"
 )
 
 install_if_missing <- function(pkg) {

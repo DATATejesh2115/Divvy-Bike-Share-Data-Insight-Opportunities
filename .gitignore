@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+# Ignore renv library (only keep lock and settings)
+renv/library/
+renv/python/
+renv/staging/
